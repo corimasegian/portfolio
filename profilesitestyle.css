@@ -1,0 +1,15 @@
+
+body{
+  background-color: lightSteelBlue;
+
+}
+
+
+h1 {
+
+  color: black;
+  font-size: 70px;
+  font-weight: lighter;
+  font-family: 'Barrio';
+  background-image: image(sunset.jpg);
+}
